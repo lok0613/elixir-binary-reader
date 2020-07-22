@@ -1,11 +1,8 @@
 # BinaryReader
 
-A Elixir Binary Reader that running with side effects.
+A Elixir Binary Reader that running WITH side effects.
 
 ## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `binary_reader` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
